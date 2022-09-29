@@ -57,6 +57,7 @@ const menu = (Nph, Rapida, comp) => {
                         console.log(`Sua dosagem total é:  ${Nph[0] + Rapida[0] - 1}`);
                     } 
                 case 7: 
+                console.log("ate a proxima !")
                 break;
             default:
                 break;
